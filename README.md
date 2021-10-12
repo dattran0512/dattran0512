@@ -18,6 +18,7 @@
 
 ![TranNguyenThanhDat GitHub stats](https://github-readme-stats.vercel.app/api?username=dattran0512&show_icons=true&theme=dracula)
 <a href="https://github.com/dattran0512">
+ <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattran0512&theme=dracula&hide=glsl,python" />
 </a>
 
