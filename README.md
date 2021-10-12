@@ -1,7 +1,9 @@
  👋 I'm Tran Nguyen Thanh Dat from  UTEIsTeam
  <!--
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /> -->
-<img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /> 
+<img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />  -->
+<img src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" alt="drawing" width="350" height="200" align="right"/>
+
 - 🔭 I’m currently working on HCM UTE <br />
 - 🌱 I’m currently learning Information technology <br />
 - 📫 How to reach me: dattran9a3@gmail.
@@ -18,7 +20,6 @@
 
 ![TranNguyenThanhDat GitHub stats](https://github-readme-stats.vercel.app/api?username=dattran0512&show_icons=true&theme=dracula)
 <a href="https://github.com/dattran0512">
- <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattran0512&theme=dracula&hide=glsl,python" />
 </a>
 
