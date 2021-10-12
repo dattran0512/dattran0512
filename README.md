@@ -19,7 +19,7 @@
 [<img href="https://www.facebook.com/daisylatuii/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/daisylatuii/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_thanhhdattt)
 
-[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dattran0512?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=9592000)](https://github.com/dattran0512?tab=followers)
 
 ![TranNguyenThanhDat GitHub stats](https://github-readme-stats.vercel.app/api?username=dattran0512&show_icons=true&theme=dracula)
 <a href="https://github.com/dattran0512">
