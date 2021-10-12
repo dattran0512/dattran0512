@@ -10,5 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dattran9a3)](https://github.com/anuraghazra/github-readme-stats)
+![TranNguyenThanhDat GitHub stats](https://github-readme-stats.vercel.app/api?username=dattran0512&show_icons=true&theme=radical)
+
 
